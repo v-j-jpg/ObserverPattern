@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Logger\Logger\bin\Debug\Logger.exe.config
+C:\Users\Lenovo\source\repos\Logger\Logger\bin\Debug\Logger.exe
+C:\Users\Lenovo\source\repos\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\Lenovo\source\repos\Logger\Logger\obj\Debug\Logger.exe
+C:\Users\Lenovo\source\repos\Logger\Logger\obj\Debug\Logger.pdb
